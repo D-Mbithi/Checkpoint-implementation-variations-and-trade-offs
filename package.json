@@ -1,0 +1,14 @@
+{
+  "name": "checkpoint-implementation-variations-and-trade-offs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test queue.test.js",
+    "dev": "node usage.js"
+  },
+  "keywords": [],
+  "author": "dennis mbithi",
+  "license": "ISC",
+  "type": "commonjs"
+}
